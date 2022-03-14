@@ -1,0 +1,26 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "this is a sample application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "keywords": [
+    "JS",
+    "javascript",
+    "node",
+    "js",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
